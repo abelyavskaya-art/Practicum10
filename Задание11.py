@@ -1,5 +1,9 @@
 def common_num(n: int) -> bool:
-    """Проверяет, является ли число простым."""
+    """
+    Checks whether the number is simple.
+    :param n: int
+    :return: bool
+    """
     if n < 2:
         return False
     for i in range(2, int(n ** 0.5) + 1):
@@ -7,5 +11,9 @@ def common_num(n: int) -> bool:
             return False
     return True
 
-num = int(input())
-print(common_num(num))
+N = int(input("Введите число N: "))
+
+for num in range(1, N + 1):
+    if common_num(num):
+        print(num, end=" ")
+print()
