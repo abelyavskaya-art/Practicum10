@@ -4,26 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b4a1445-ea51-4d07-aaa5-56526ab02d15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Practicum10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задание9.py" afterDir="false" />
+    <list default="true" id="7b4a1445-ea51-4d07-aaa5-56526ab02d15" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задание9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abelyavskaya-art&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abelyavskaya-art/Practicum10.git&quot;,
+    &quot;accountId&quot;: &quot;af349292-1edb-454c-9197-ca5798434916&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -59,11 +62,13 @@
     "Python.Задание2.executor": "Run",
     "Python.Задание3.executor": "Run",
     "Python.Задание4.executor": "Run",
+    "Python.Задание5.executor": "Run",
     "Python.Задание6.executor": "Run",
     "Python.Задание7.executor": "Run",
     "Python.Задание8.executor": "Run",
     "Python.Задание9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
@@ -83,6 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1774401397909</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1774636688178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774636688178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>

@@ -13,11 +13,11 @@ def seconds_since_new_year(datetime_str: str) -> int:
         days_in_month = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
         if not (1 <= month <= 12 and 1 <= day <= days_in_month[month - 1]):
-            raise ValueError("Некорректная дата")
+            raise ValueError
         if not (0 <= hour <= 23 and 0 <= minute <= 59 and 0 <= second <= 59):
-            raise ValueError("Некорректное время")
+            raise ValueError
 
-        # Количество дней от начала года
+        # Amount days from the beginning of the year.
         days = sum(days_in_month[:month - 1]) + day - 1
 
         return days * 86400 + hour * 3600 + minute * 60 + second
@@ -26,4 +26,4 @@ def seconds_since_new_year(datetime_str: str) -> int:
         print("Ошибка: неверный формат. Ожидается: MM/DD/YYYY HR:MIN:SEC")
         return -1
 
-print(seconds_since_new_year("09/06/2024 00:00:00"))
+print(seconds_since_new_year("02/30/2024 12:00:00"))

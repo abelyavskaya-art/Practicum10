@@ -3,8 +3,10 @@ def calculate_final_price(amount: int, discount_card: bool, holidays: bool) -> f
     Calculates the total price based on accrued discounts.
 
     :param amount: int
-    :param discount_card: bool
-    :param holidays: bool
+    :param discount_card: have a discount card.
+    :type discount_card: bool
+    :param holidays: have a holidays.
+    :type holidays: bool
     :return: float
     """
 

@@ -1,4 +1,4 @@
-def print_common_multiples(A: int, B: int, N: int) -> None:
+def common_multiples(A: int, B: int, N: int) -> None:
     """
     Returns all common multiples of A and B that do not exceed N.
 
@@ -17,4 +17,4 @@ def print_common_multiples(A: int, B: int, N: int) -> None:
 
 A, B, N = int(input()), int(input()), int(input())
 
-print_common_multiples(A, B, N)
+common_multiples(A, B, N)

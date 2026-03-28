@@ -45,5 +45,5 @@ def convert_datetime(datetime_str: str) -> None:
             f"{hour_new:02d}:{minute:02d}:{second:02d} {period}"
         )
 
-    except (ValueError, IndexError):
+    except ValueError:
         print("Ошибка: неверный формат.")

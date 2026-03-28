@@ -25,3 +25,5 @@ def calculate_card_value() -> int | None:
 
     print(f"The final amount of the card : {total}")
     return total
+
+calculate_card_value()

@@ -1,4 +1,3 @@
-
 def find_letters(sentence: str) -> None:
     """
     Counts the number of vowels and consonants in a line.

@@ -11,7 +11,7 @@ def print_special_numbers(A: int, B: int) -> None:
     if A > B:
         A, B = B, A
 
-    allowed_digits = {'1', '3', '4', '8', '9'}
+    allowed_digits = ['1', '3', '4', '8', '9']
 
     for num in range(A, B + 1):
         num_str = str(num)
